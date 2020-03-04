@@ -1,0 +1,15 @@
+.userInput {
+    height: 10%;
+    width: 20%;
+    background-color: #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 8px;
+    border: 1px solid #ccc;
+    font-size: 30px;
+    align-items: center;
+    margin-top: 20px
+}
+
+.wrapper{
+    text-align: center;
+}
